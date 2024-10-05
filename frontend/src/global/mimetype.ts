@@ -192,6 +192,10 @@ export const DNSTypes = [
         label: 'GoDaddy',
         value: 'Godaddy',
     },
+    {
+        label: 'Volcengine',
+        value: 'Volcengine',
+    },
 ];
 
 export const Fields = [
