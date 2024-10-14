@@ -1779,6 +1779,7 @@ const message = {
         SSLList: '證書列表',
         createDnsAccount: 'DNS賬戶',
         aliyun: '阿裏雲DNS',
+        volcengine: '火山引擎',
         manual: '手動解析',
         key: '密鑰',
         check: '查看',
